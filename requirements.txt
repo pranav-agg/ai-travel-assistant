@@ -1,0 +1,27 @@
+langchain==0.3.27
+langchain-core==0.3.78
+langgraph==0.6.8
+
+langchain-openai==0.3.35
+
+langchain-chroma==0.2.6
+chromadb==1.1.1
+
+mcp==1.16.0
+langchain-mcp-adapters==0.1.10
+
+httpx==0.28.1
+beautifulsoup4==4.14.2
+lxml==6.0.2
+
+streamlit==1.50.0
+python-dotenv==1.1.1
+
+# --- Tests --------------------------------------------------------------
+pytest==8.4.2
+freezegun==1.5.5
+respx==0.22.0
+
+# If `import chromadb` fails with an sqlite3 version error (needs >= 3.35),
+# uncomment the next line and see README "Troubleshooting".
+# pysqlite3-binary==0.5.4

@@ -1,0 +1,96 @@
+{
+  "_comment": [
+    "Knowledge-base sources for the Singapore travel assistant.",
+    ""
+  ],
+  "sources": [
+    {
+      "id": "wikivoyage-singapore",
+      "title": "Wikivoyage — Singapore",
+      "url": "https://en.wikivoyage.org/wiki/Singapore",
+      "fetcher": "wikivoyage",
+      "page": "Singapore",
+      "licence": "CC BY-SA 4.0",
+      "redistributable": true,
+      "enabled": true,
+      "covers": ["overview", "transport", "culture", "food", "itineraries", "practical"]
+    },
+    {
+      "id": "wikivoyage-riverside",
+      "title": "Wikivoyage — Singapore/Riverside",
+      "url": "https://en.wikivoyage.org/wiki/Singapore/Riverside",
+      "fetcher": "wikivoyage",
+      "page": "Singapore/Riverside",
+      "licence": "CC BY-SA 4.0",
+      "redistributable": true,
+      "enabled": true,
+      "covers": ["attractions", "museums", "neighbourhoods"]
+    },
+    {
+      "id": "wikivoyage-little-india",
+      "title": "Wikivoyage — Singapore/Little India",
+      "url": "https://en.wikivoyage.org/wiki/Singapore/Little_India",
+      "fetcher": "wikivoyage",
+      "page": "Singapore/Little India",
+      "licence": "CC BY-SA 4.0",
+      "redistributable": true,
+      "enabled": true,
+      "covers": ["neighbourhoods", "culture", "food","shopping"]
+    },
+    {
+      "id": "wikivoyage-chinatown",
+      "title": "Wikivoyage — Singapore/Chinatown",
+      "url": "https://en.wikivoyage.org/wiki/Singapore/Chinatown",
+      "fetcher": "wikivoyage",
+      "page": "Singapore/Chinatown",
+      "licence": "CC BY-SA 4.0",
+      "redistributable": true,
+      "enabled": true,
+      "covers": ["neighbourhoods", "culture", "food", "attractions"]
+    },
+    {
+      "id": "wikivoyage-orchard",
+      "title": "Wikivoyage — Singapore/Orchard",
+      "url": "https://en.wikivoyage.org/wiki/Singapore/Orchard",
+      "fetcher": "wikivoyage",
+      "page": "Singapore/Orchard",
+      "licence": "CC BY-SA 4.0",
+      "redistributable": true,
+      "enabled": true,
+      "covers": ["shopping", "indoor", "neighbourhoods"]
+    },
+    {
+      "id": "wikivoyage-sentosa",
+      "title": "Wikivoyage — Singapore/Sentosa",
+      "url": "https://en.wikivoyage.org/wiki/Singapore/Sentosa",
+      "fetcher": "wikivoyage",
+      "page": "Singapore/Sentosa",
+      "licence": "CC BY-SA 4.0",
+      "redistributable": true,
+      "enabled": true,
+      "covers": ["attractions", "outdoor", "family"]
+    },
+    {
+      "id": "visitsingapore-essential",
+      "title": "Visit Singapore — Essential Travel Information",
+      "url": "https://www.visitsingapore.com/travel-guide-tips/essential-travel-information/",
+      "fetcher": "html",
+      "licence": "© Singapore Tourism Board — not redistributable",
+      "redistributable": false,
+      "enabled": true,
+      "covers": ["practical", "climate", "connectivity"],
+      "note": "Enable locally if desired. Fetched text must not be committed."
+    },
+    {
+      "id": "visitsingapore-itineraries",
+      "title": "Visit Singapore — Sample Itineraries",
+      "url": "https://www.visitsingapore.com/see-do-singapore/itineraries/",
+      "fetcher": "html",
+      "licence": "© Singapore Tourism Board — not redistributable",
+      "redistributable": false,
+      "enabled": true,
+      "covers": ["itineraries"],
+      "note": "JavaScript-rendered; the plain HTML fetcher may return little."
+    }
+  ]
+}

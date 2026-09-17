@@ -3,7 +3,7 @@ title: Wikivoyage — Singapore/Sentosa
 url: https://en.wikivoyage.org/wiki/Singapore/Sentosa
 licence: CC BY-SA 4.0
 redistributable: true
-retrieved_at: 2026-09-15T17:37:10+00:00
+retrieved_at: 2026-09-17T07:53:55+00:00
 ---
 
 Sentosa is an island just off the southern coast of Singapore. This district also includes Harbourfront and the Southern Islands.

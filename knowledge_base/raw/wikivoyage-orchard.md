@@ -3,7 +3,7 @@ title: Wikivoyage — Singapore/Orchard
 url: https://en.wikivoyage.org/wiki/Singapore/Orchard
 licence: CC BY-SA 4.0
 redistributable: true
-retrieved_at: 2026-09-15T17:37:09+00:00
+retrieved_at: 2026-09-17T07:53:54+00:00
 ---
 
 Orchard Road is Singaporean consumerism at its most manic, a two-kilometre stretch of interconnected shopping malls, hotels, and hotels with shopping malls catering to all budgets and tastes.  North of the Singapore River, to the west of Marina Bay, Orchard Road turns into Tanglin Road to the west and Bras Basah Road as it heads east.  Only at the eastern Bras Basah end do the shopping malls briefly peter out, with some fine colonial architecture and a few of Singapore's top museums to be found instead.

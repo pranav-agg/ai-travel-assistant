@@ -3,7 +3,7 @@ title: Wikivoyage — Singapore/Chinatown
 url: https://en.wikivoyage.org/wiki/Singapore/Chinatown
 licence: CC BY-SA 4.0
 redistributable: true
-retrieved_at: 2026-09-15T17:37:08+00:00
+retrieved_at: 2026-09-17T07:53:53+00:00
 ---
 
 Singapore's Chinatown is the traditional Chinese quarters of town, and while the entire city is largely Chinese these days, the area does retain some of its own charm.  The area is also known as Niu Che Shui (牛车水, lit. "bullock cart water") in Chinese and Kreta Ayer (lit. "water cart") in Malay, both names referring to the bullock carts that used to haul in drinking water. Chinatown became the heart of Singapore's Cantonese community as the more numerous Hokkiens and Teochews scattered to other parts of the island, and while the offerings have diversified considerably in the 21st century, Chinatown remains best known to Singaporeans as the place for delicious and affordable Cantonese food.

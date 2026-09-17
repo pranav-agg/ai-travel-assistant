@@ -3,7 +3,7 @@ title: Wikivoyage — Singapore
 url: https://en.wikivoyage.org/wiki/Singapore
 licence: CC BY-SA 4.0
 redistributable: true
-retrieved_at: 2026-09-17T07:53:49+00:00
+retrieved_at: 2026-09-17T17:12:03+00:00
 ---
 
 Singapore (Chinese: 新加坡 Xīnjiāpō; Malay: Singapura; Tamil: சிங்கப்பூர் Chingappur) is a city-state in Southeast Asia. Modern Singapore was founded as a British trading colony in 1819, and since independence, it has become one of the world's most prosperous countries and boasts one of the world's busiest ports. Singaporean food is legendary, with bustling hawker centres and 24-hour coffee shops offering affordable food from all parts of Asia. Combining the skyscrapers and shopping malls of an affluent modern city with a medley of different Asian cultures and a tropical climate, good shopping and a vibrant nightlife scene, this Garden City makes a great stopover or springboard into the region.

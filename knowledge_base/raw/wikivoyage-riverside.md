@@ -3,7 +3,7 @@ title: Wikivoyage — Singapore/Riverside
 url: https://en.wikivoyage.org/wiki/Singapore/Riverside
 licence: CC BY-SA 4.0
 redistributable: true
-retrieved_at: 2026-09-17T07:53:52+00:00
+retrieved_at: 2026-09-17T17:12:05+00:00
 ---
 
 The Singapore River forms a central artery in Singapore's densely packed Central Business District (CBD).  The north bank of the river is where Raffles landed and founded his colony, and to this day many central government buildings can be found in the area.  The newer south bank, laden with skyscrapers, is where Singapore's bankers make (or break) their fortunes.  Between the two are the bulk of Singapore's nightspots, found along the riverside streets of Boat Quay, Clarke Quay and Robertson Quay.

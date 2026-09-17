@@ -14,7 +14,9 @@ own suggestions.
 
 
 ---
+## REPO LINK:
 
+https://github.com/pranav-agg/ai-travel-assistant
 
 ## Quick start
 
@@ -28,6 +30,7 @@ pip install -r requirements.txt
 
 python -m src.ingest --no-embed   # verify fetching + chunking, no API cost
 python -m src.ingest              # build the vector store
+
 
 
 streamlit run app.py
@@ -109,7 +112,7 @@ Six Wikivoyage pages, declared in `knowledge_base/sources.json`:
 |---|---|
 | Wikivoyage — Singapore | Overview, transport, culture, food, itineraries |
 | Wikivoyage — Riverside | Attractions, museums |
-| Wikivoyage — Bugis & Kampong Glam | Neighbourhoods, culture, food |
+| Wikivoyage — Little India | Neighbourhoods, culture, food, shopping |
 | Wikivoyage — Chinatown | Neighbourhoods, culture, attractions |
 | Wikivoyage — Orchard | Shopping, indoor options |
 | Wikivoyage — Sentosa | Attractions, outdoor, family |
@@ -120,7 +123,8 @@ with attribution. Two Visit Singapore pages are listed in `sources.json` but ena
 them did not return any relevant info. So they can be set **disabled** (`enabled: false`) 
 because Singapore Tourism Board content is not freely redistributable. 
 
-`python -m src.ingest` to rebuild it from source.
+`python -m src.ingest`              # to build it from source
+`python -m src.ingest  --reset`     # discard and rebuilt
 
 
 ### RAG workflow

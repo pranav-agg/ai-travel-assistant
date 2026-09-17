@@ -3,7 +3,7 @@ title: Wikivoyage — Singapore/Little India
 url: https://en.wikivoyage.org/wiki/Singapore/Little_India
 licence: CC BY-SA 4.0
 redistributable: true
-retrieved_at: 2026-09-17T07:53:52+00:00
+retrieved_at: 2026-09-17T17:12:05+00:00
 ---
 
 Little India is, as the name promises, the centre for the large Indian community in Singapore. While a rather sanitised version of the real thing, Little India retains its distinct identity without degenerating into a mere tourist attraction and is one of the most colourful and attractive places to visit in Singapore.
